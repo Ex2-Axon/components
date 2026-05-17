@@ -1,8 +1,6 @@
-﻿![screenshot](https://raw.githubusercontent.com/uiverse-io/.github/main/cover.png)
+﻿# Component Gallery App
 
-# Galaxy
-
-Welcome to the `galaxy`, a collection of over 3000 unique UI elements from [Uiverse.io](https://uiverse.io/).
+Welcome to the `x-Component`, a collection of over 3000 unique UI elements.
 
 This repository currently contains a full archive of UI component HTML files plus a starter Next.js application in `x-components/`.
 
